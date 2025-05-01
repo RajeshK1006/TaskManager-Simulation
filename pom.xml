@@ -40,7 +40,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>taskmanager.Main</mainClass> <!-- Update to your main class -->
+                            <mainClass>org.rajesh.Main</mainClass> <!-- Update to your main class -->
                         </manifest>
                     </archive>
                 </configuration>
