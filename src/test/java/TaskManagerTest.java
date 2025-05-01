@@ -10,12 +10,11 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class TaskManagerTest {
 
-    // Logger setup
     private static final Logger logger = Logger.getLogger(TaskServiceTest.class.getName());
     private static FileHandler fileHandler;
     private TaskService taskService;
 
-    // Before all tests
+
     @BeforeAll
     public static void setupBeforeAll() throws Exception {
         fileHandler = new FileHandler("test-logs.log");
@@ -24,7 +23,7 @@ public class TaskManagerTest {
         logger.info("Starting Test Suite...");
     }
 
-    // After all tests
+
     @AfterAll
     public static void tearDownAfterAll() throws Exception {
         logger.info("Test Suite Completed.");
@@ -44,7 +43,6 @@ public class TaskManagerTest {
         logger.info("Test completed. Tearing down...");
     }
 
-    // Sample test case with DisplayName
     @Test
     @DisplayName("Test: Create Task - Valid Task")
     public void testCreateTask() {
@@ -54,7 +52,6 @@ public class TaskManagerTest {
         logger.info("Task 'Task 1' was created.");
     }
 
-    // Sample test case with DisplayName
     @Test
     @DisplayName("Test: Search Tasks by Priority")
     public void testSearchByPriority() {
@@ -67,7 +64,7 @@ public class TaskManagerTest {
         logger.info("Two tasks found with high priority.");
     }
 
-    // Sample test case with DisplayName
+
     @Test
     @DisplayName("Test: Get Tasks - Empty List")
     public void testGetTasksWhenEmpty() {

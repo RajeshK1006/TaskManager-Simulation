@@ -54,3 +54,15 @@ May 02, 2025 12:28:47 AM org.rajesh.TaskService searchPriority
 INFO: Searched Tasks with Priority: High
 May 02, 2025 12:28:47 AM org.rajesh.TaskService createTask
 INFO: Created Task ID: 8
+May 02, 2025 12:39:31 AM org.rajesh.TaskService createTask
+INFO: Created Task ID: 1
+May 02, 2025 12:39:31 AM org.rajesh.TaskService createTask
+INFO: Created Task ID: 2
+May 02, 2025 12:39:31 AM org.rajesh.TaskService createTask
+INFO: Created Task ID: 3
+May 02, 2025 12:39:31 AM org.rajesh.TaskService searchPriority
+INFO: Searched Tasks with Priority: High
+May 02, 2025 12:39:31 AM org.rajesh.TaskService searchPriority
+INFO: Searched Tasks with Priority: Low
+May 02, 2025 12:39:31 AM org.rajesh.TaskService createTask
+INFO: Created Task ID: 4

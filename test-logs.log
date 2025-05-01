@@ -1,22 +1,22 @@
-May 02, 2025 12:28:47 AM TaskManagerTest setupBeforeAll
+May 02, 2025 12:39:31 AM TaskManagerTest setupBeforeAll
 INFO: Starting Test Suite...
-May 02, 2025 12:28:47 AM TaskManagerTest setupBeforeEach
+May 02, 2025 12:39:31 AM TaskManagerTest setupBeforeEach
 INFO: Setting up for a new test...
-May 02, 2025 12:28:47 AM TaskManagerTest testSearchByPriority
+May 02, 2025 12:39:31 AM TaskManagerTest testSearchByPriority
 INFO: Two tasks found with high priority.
-May 02, 2025 12:28:47 AM TaskManagerTest tearDownAfterEach
+May 02, 2025 12:39:31 AM TaskManagerTest tearDownAfterEach
 INFO: Test completed. Tearing down...
-May 02, 2025 12:28:47 AM TaskManagerTest setupBeforeEach
+May 02, 2025 12:39:31 AM TaskManagerTest setupBeforeEach
 INFO: Setting up for a new test...
-May 02, 2025 12:28:47 AM TaskManagerTest testGetTasksWhenEmpty
+May 02, 2025 12:39:31 AM TaskManagerTest testGetTasksWhenEmpty
 INFO: No tasks found with low priority, as expected.
-May 02, 2025 12:28:47 AM TaskManagerTest tearDownAfterEach
+May 02, 2025 12:39:31 AM TaskManagerTest tearDownAfterEach
 INFO: Test completed. Tearing down...
-May 02, 2025 12:28:47 AM TaskManagerTest setupBeforeEach
+May 02, 2025 12:39:31 AM TaskManagerTest setupBeforeEach
 INFO: Setting up for a new test...
-May 02, 2025 12:28:47 AM TaskManagerTest testCreateTask
+May 02, 2025 12:39:31 AM TaskManagerTest testCreateTask
 INFO: Task 'Task 1' was created.
-May 02, 2025 12:28:47 AM TaskManagerTest tearDownAfterEach
+May 02, 2025 12:39:31 AM TaskManagerTest tearDownAfterEach
 INFO: Test completed. Tearing down...
-May 02, 2025 12:28:47 AM TaskManagerTest tearDownAfterAll
+May 02, 2025 12:39:31 AM TaskManagerTest tearDownAfterAll
 INFO: Test Suite Completed.
